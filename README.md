@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bpezoav
 - 👀 I’m interested in Data Science and Cryptography
-- 🌱 I’m currently learning Ingeniería Civil en Computación at Universidad de Chile
+- 🌱 I’m currently learning CS at Universidad de Chile
 - 📫 How to reach me? e-mail me at bpezoa@dcc.uchile.cl
 
 <!---
