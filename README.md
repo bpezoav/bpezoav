@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bpezoav
-- 👀 I’m interested in Data Science and Cryptography
+- 👀 I’m interested in Data Science and Cybersecurity
 - 🌱 I’m currently learning CS at Universidad de Chile
 - 📫 How to reach me? e-mail me at bpezoa@dcc.uchile.cl
 
